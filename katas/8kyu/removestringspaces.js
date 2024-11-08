@@ -6,3 +6,4 @@ function noSpace(x){
     // 'g' is a flag meaning 'global' so it replaces all matches.
     return str;
 }
+console.log(noSpace(" jfhfhf jjfjjf fjfjff jfnjfn dddddd jnfjfjf "));
