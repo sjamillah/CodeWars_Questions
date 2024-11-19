@@ -6,3 +6,8 @@ function paperwork(n, m) {
         return 0;
     }
 }
+console.log(paperwork(5, 5));
+console.log(paperwork(0, 6));
+console.log(paperwork(-6, 8));
+console.log(paperwork(8, -1));
+console.log(paperwork(9, 56));
